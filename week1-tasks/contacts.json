@@ -1,0 +1,14 @@
+{
+    "anand": {
+        "id": "1",
+        "phone": "9111115609",
+        "email": "anand@gmail.com",
+        "address": "thrissur, kerala"
+    },
+    "dinesh": {
+        "id": "22",
+        "phone": "9008760099",
+        "email": "dinesh@gmail.com",
+        "address": "Ram nagar,karnataka"
+    }
+}
